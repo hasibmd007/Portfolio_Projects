@@ -1,3 +1,4 @@
-# Web Scraping using Python
-In this project, i have written a python program which will access the data of IMDB website and then fetch the top rated movies present in the IMDB websites
-by using BeautifulSoup  and requests module and then i have loaded the desired data into an excel file by using openpyxl module.
+# DATA ANALYTICS - Portfolio Project Repository
+This Repository will hold all of the code and files from my Portfolio Projects. 
+Please feel free to take these and run with them. Make them your own and find your own insight.
+Thanks.
